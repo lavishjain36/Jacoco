@@ -1,4 +1,4 @@
-name: Measure code coverage
+name: Measure code coverage tool
 
 on:
   pull_request:
